@@ -1,3 +1,3 @@
 ## To-do
 
-# Desafio 01 do Ignite - Criar um To-do com React Native
+# Ignite Challenge. Create a to-do list in React Native
